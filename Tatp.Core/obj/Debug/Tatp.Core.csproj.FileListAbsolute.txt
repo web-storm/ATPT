@@ -1,0 +1,10 @@
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Core\bin\Debug\Tatp.Core.dll
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Core\bin\Debug\Tatp.Core.pdb
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Core\obj\Debug\Tatp.Core.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Core\obj\Debug\Tatp.Core.dll
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Core\obj\Debug\Tatp.Core.pdb
+E:\TATP__lab1\Tatp.Core\bin\Debug\Tatp.Core.dll
+E:\TATP__lab1\Tatp.Core\bin\Debug\Tatp.Core.pdb
+E:\TATP__lab1\Tatp.Core\obj\Debug\Tatp.Core.csprojResolveAssemblyReference.cache
+E:\TATP__lab1\Tatp.Core\obj\Debug\Tatp.Core.dll
+E:\TATP__lab1\Tatp.Core\obj\Debug\Tatp.Core.pdb
