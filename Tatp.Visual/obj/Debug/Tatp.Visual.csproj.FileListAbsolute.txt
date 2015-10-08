@@ -1,0 +1,11 @@
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\bin\Debug\Tatp.Visual.exe.config
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\bin\Debug\Tatp.Visual.exe
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\bin\Debug\Tatp.Visual.pdb
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\bin\Debug\Tatp.Core.dll
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\bin\Debug\Tatp.Core.pdb
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.Form1.resources
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.Properties.Resources.resources
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.csproj.GenerateResource.Cache
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.exe
+C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.pdb
