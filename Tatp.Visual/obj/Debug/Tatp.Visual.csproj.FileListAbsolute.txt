@@ -9,6 +9,7 @@ C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.Propert
 C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.csproj.GenerateResource.Cache
 C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.exe
 C:\Users\Иван\Documents\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.pdb
+<<<<<<< HEAD
 E:\TATP__lab1\Tatp.Visual\bin\Debug\Tatp.Visual.exe.config
 E:\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.exe
 E:\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.pdb
@@ -20,3 +21,5 @@ E:\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.csprojResolveAssemblyReference.c
 E:\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.Form1.resources
 E:\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.Properties.Resources.resources
 E:\TATP__lab1\Tatp.Visual\obj\Debug\Tatp.Visual.csproj.GenerateResource.Cache
+=======
+>>>>>>> 951e7468580d7d9f1647dd4aded61ed55e1a7c55

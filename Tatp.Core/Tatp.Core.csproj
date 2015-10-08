@@ -41,7 +41,11 @@
   <ItemGroup>
     <Compile Include="ArrayService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="SortingAlgorythmsEnum.cs" />
+=======
+    <Compile Include="SortingsEnum.cs" />
+>>>>>>> 951e7468580d7d9f1647dd4aded61ed55e1a7c55
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
