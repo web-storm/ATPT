@@ -10,7 +10,7 @@ namespace Tatp.Core
             var rndNumber = new Random();
             var array = new List<int>();
             for (var i = 0; i < size; i++)
-                array.Add(rndNumber.Next());
+                array.Add(rndNumber.Next(100));
             return array;
         }
     }

@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
             this.sortStart = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.deltaSize = new System.Windows.Forms.NumericUpDown();
@@ -172,7 +171,7 @@
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripProgressBar1});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 230);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 239);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(284, 22);
             this.statusStrip1.TabIndex = 5;
@@ -192,27 +191,12 @@
             this.sortStop.TabIndex = 6;
             this.sortStop.Text = "Остановить сортировку";
             this.sortStop.UseVisualStyleBackColor = true;
-=======
-            this.button1 = new System.Windows.Forms.Button();
-            this.SuspendLayout();
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(83, 156);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(164, 67);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
->>>>>>> 951e7468580d7d9f1647dd4aded61ed55e1a7c55
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-<<<<<<< HEAD
-            this.ClientSize = new System.Drawing.Size(284, 252);
+            this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.sortStop);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.label4);
@@ -222,7 +206,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Оценка сортировки";
+            this.Text = "Form1";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.deltaSize)).EndInit();
@@ -234,19 +218,11 @@
             this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
-=======
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.button1);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.ResumeLayout(false);
->>>>>>> 951e7468580d7d9f1647dd4aded61ed55e1a7c55
 
         }
 
         #endregion
 
-<<<<<<< HEAD
         private System.Windows.Forms.Button sortStart;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.NumericUpDown deltaSize;
@@ -263,9 +239,6 @@
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripProgressBar toolStripProgressBar1;
         private System.Windows.Forms.Button sortStop;
-=======
-        private System.Windows.Forms.Button button1;
->>>>>>> 951e7468580d7d9f1647dd4aded61ed55e1a7c55
     }
 }
 

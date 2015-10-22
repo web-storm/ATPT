@@ -9,23 +9,34 @@ namespace Tatp.Visual
         public Form1()
         {
             InitializeComponent();
-<<<<<<< HEAD
             sortCombo.DataSource = Enum.GetValues(typeof (SortingAlgorythmsEnum));
         }
 
         private void sortStart_Click(object sender, EventArgs e)
         {
-            var mas = ArrayService.ArrayCreate(5);
-            
-            if (sortCombo.SelectedValue.Equals(SortingAlgorythmsEnum.QuickSort))
-                toolStripProgressBar1.Increment(5);
-=======
-        }
+            int firstRange = 0;
+            int lastRange = 0;
+            int percents = 0;
+            try
+            {
+               firstRange = (int)startSize.Value;
+               lastRange = (int)endSize.Value;
+               percents = (int) 100 / (lastRange - firstRange);
+            }
+            catch (DivideByZeroException)
+            {
+                MessageBox.Show("!", "!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            var mas = ArrayService.ArrayCreate(5);
->>>>>>> 951e7468580d7d9f1647dd4aded61ed55e1a7c55
+            for (var i = firstRange; i < lastRange; i++)
+            {
+                var mas = ArrayService.ArrayCreate(i);
+                mas.Sort();
+                toolStripProgressBar1.Increment(++percents);
+            }
+
+            //if (sortCombo.SelectedValue.Equals(SortingAlgorythmsEnum.QuickSort))
+            //    toolStripProgressBar1.Increment(5);
         }
     }
 }

@@ -54,6 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -79,7 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tatp.Core\Tatp.Core.csproj">
-      <Project>{eaa2b9fc-f3e6-4c51-bcf3-b6e3b5b0779e}</Project>
+      <Project>{9f807f52-43c4-4d74-9fe7-2a1705a97aa5}</Project>
       <Name>Tatp.Core</Name>
     </ProjectReference>
   </ItemGroup>

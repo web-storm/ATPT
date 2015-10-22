@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EAA2B9FC-F3E6-4C51-BCF3-B6E3B5B0779E}</ProjectGuid>
+    <ProjectGuid>{9F807F52-43C4-4D74-9FE7-2A1705A97AA5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tatp.Core</RootNamespace>
@@ -41,11 +41,9 @@
   <ItemGroup>
     <Compile Include="ArrayService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-<<<<<<< HEAD
     <Compile Include="SortingAlgorythmsEnum.cs" />
-=======
     <Compile Include="SortingsEnum.cs" />
->>>>>>> 951e7468580d7d9f1647dd4aded61ed55e1a7c55
+    <Compile Include="SortingsService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
